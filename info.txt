@@ -1,3 +1,2 @@
 estoy en linux utilizando git 
-Voy a crear un conflicto modificando la misma linea en dos sitios a la vez desde GitHub desde VSC
-
+Voy a crear un conflicto modificando la misma linea en dos sitios a la vez desde GitHub
