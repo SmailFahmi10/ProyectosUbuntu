@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 estoy en linux utilizando git 
-Voy a crear un conflicto modificando la misma linea en dos sitios a la vez
+Voy a crear un conflicto modificando la misma linea en dos sitios a la vez desde GitHub
 
-=======
-estoy en linux utilizando git
-Voy a crear un conflicto modificando la misma linea en dos sitios a la vez
->>>>>>> b0cdc18cdd3c10070e04b7f1e8ee7bb8d8735620
